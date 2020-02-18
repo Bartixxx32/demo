@@ -1,4 +1,4 @@
-# Web-scraper
+# Web-scraperr
 This application uses [website-scraper](https://github.com/s0ph1e/node-website-scraper) module for scraping
 
 ## Requirements
